@@ -71,9 +71,10 @@ You mentioned a CRM to ease the checkout process. A good approach would be to sy
 
 ## 4. Feature Breakdown & Implementation Plan
 
-We propose a phased approach to build and launch the platform.
+We propose a phased approach to build and launch the platform. Given the expedited timeline and use of AI assistance, the schedule is aggressive but achievable.
 
 ### Phase 1: Backend Foundation & Product Management
+**Timeline: December 6, 2025 – December 12, 2025**
 
 *   **Tasks:**
     1.  Set up a new project for Strapi.
@@ -82,8 +83,9 @@ We propose a phased approach to build and launch the platform.
     4.  Manually migrate the existing products from the static HTML files into Strapi.
     5.  Set up and deploy the Strapi backend and PostgreSQL database (e.g., on DigitalOcean or Heroku).
 
-### Phase 2: Frontend Migration & Product Display
-
+### Phase 2: Frontend Migration & Product Display (Demo Ready)
+**Timeline: December 13, 2025 – December 25, 2025**
+*   **Goal:** Have a functional, visual prototype to demonstrate to vendors by Christmas.
 *   **Tasks:**
     1.  Set up a new Next.js project.
     2.  Recreate the main pages (`index`, `shop`, `about`, etc.) as Next.js pages.
@@ -92,6 +94,7 @@ We propose a phased approach to build and launch the platform.
     5.  Create dynamic individual product pages.
 
 ### Phase 3: E-commerce Functionality
+**Timeline: January 2, 2026 – January 23, 2026**
 
 *   **Tasks:**
     1.  Implement a shopping cart feature in the Next.js frontend.
@@ -100,13 +103,15 @@ We propose a phased approach to build and launch the platform.
     4.  Create serverless functions (or a small dedicated backend service) to handle order creation and payment confirmation.
     5.  Set up transactional emails for order confirmations.
 
-### Phase 4: CRM and Advanced Features
-
+### Phase 4: CRM, Advanced Features & Deployment
+**Timeline: January 24, 2026 – February 15, 2026**
+*   **Goal:** Full platform launch.
 *   **Tasks:**
     1.  Integrate the HubSpot API to sync customer and order data.
     2.  Build out any custom analytics or reporting features in the admin dashboard.
-    3.  Refine the vendor dashboard based on feedback.
-    4.  Conduct thorough testing of the entire platform.
+    3.  Refine the vendor dashboard based on feedback from the demo.
+    4.  Conduct thorough testing (QA) of the entire platform.
+    5.  **Final Deployment:** Go live with the production environment.
 
 ## 5. Technology Stack Summary
 
