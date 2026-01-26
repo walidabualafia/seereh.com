@@ -74,7 +74,7 @@ You mentioned a CRM to ease the checkout process. A good approach would be to sy
 We propose a phased approach to build and launch the platform. Given the expedited timeline and use of AI assistance, the schedule is aggressive but achievable.
 
 ### Phase 1: Backend Foundation & Product Management
-**Timeline: December 6, 2025 – December 12, 2025**
+**Timeline: January 26, 2026 – February 1, 2026**
 
 *   **Tasks:**
     1.  Set up a new project for Strapi.
@@ -84,8 +84,8 @@ We propose a phased approach to build and launch the platform. Given the expedit
     5.  Set up and deploy the Strapi backend and PostgreSQL database (e.g., on DigitalOcean or Heroku).
 
 ### Phase 2: Frontend Migration & Product Display (Demo Ready)
-**Timeline: December 13, 2025 – December 25, 2025**
-*   **Goal:** Have a functional, visual prototype to demonstrate to vendors by Christmas.
+**Timeline: February 2, 2026 – February 15, 2026**
+*   **Goal:** Have a functional, visual prototype to demonstrate to vendors.
 *   **Tasks:**
     1.  Set up a new Next.js project.
     2.  Recreate the main pages (`index`, `shop`, `about`, etc.) as Next.js pages.
@@ -94,7 +94,7 @@ We propose a phased approach to build and launch the platform. Given the expedit
     5.  Create dynamic individual product pages.
 
 ### Phase 3: E-commerce Functionality
-**Timeline: January 2, 2026 – January 23, 2026**
+**Timeline: February 16, 2026 – March 8, 2026**
 
 *   **Tasks:**
     1.  Implement a shopping cart feature in the Next.js frontend.
@@ -104,7 +104,7 @@ We propose a phased approach to build and launch the platform. Given the expedit
     5.  Set up transactional emails for order confirmations.
 
 ### Phase 4: CRM, Advanced Features & Deployment
-**Timeline: January 24, 2026 – February 15, 2026**
+**Timeline: March 9, 2026 – March 29, 2026**
 *   **Goal:** Full platform launch.
 *   **Tasks:**
     1.  Integrate the HubSpot API to sync customer and order data.

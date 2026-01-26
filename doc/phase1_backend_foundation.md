@@ -1,5 +1,5 @@
 # Phase 1: Backend Foundation & Product Management
-**Timeline:** December 6, 2025 – December 12, 2025
+**Timeline:** January 26, 2026 – February 1, 2026
 **Status:** Pending
 **Goal:** Establish a robust content management system (CMS) and database schema to house product, artisan, and order data.
 

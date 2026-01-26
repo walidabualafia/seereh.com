@@ -1,5 +1,5 @@
 # Phase 2: Frontend Migration & Product Display (Demo Ready)
-**Timeline:** December 13, 2025 – December 25, 2025
+**Timeline:** February 2, 2026 – February 15, 2026
 **Status:** Pending
 **Goal:** Create a visually impressive, read-only version of the e-commerce site using Next.js, populated with real data from the Phase 1 backend. This is the "Pitch Deck" version.
 

@@ -1,5 +1,5 @@
 # Phase 3: E-commerce Functionality
-**Timeline:** January 2, 2026 – January 23, 2026
+**Timeline:** February 16, 2026 – March 8, 2026
 **Status:** Pending
 **Goal:** Turn the brochure site into a functioning store where users can add items to a cart, checkout, and pay securely.
 
